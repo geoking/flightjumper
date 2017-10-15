@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 100,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/values-th/values-th.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

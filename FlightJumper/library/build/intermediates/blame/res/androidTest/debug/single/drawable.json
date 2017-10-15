@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg.xml",
+        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/drawable/above_shadow.xml",
+        "source": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/bundles/debug/res/drawable/above_shadow.xml"
+    },
+    {
+        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/drawable/below_shadow.xml",
+        "source": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/bundles/debug/res/drawable/below_shadow.xml"
+    },
+    {
+        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable/notification_tile_bg.xml"
+    }
+]
