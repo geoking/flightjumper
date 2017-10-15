@@ -204,8 +204,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                                                                                         destinationPlace = json_Places.getJSONObject(i).getString("CityName");
                                                                                     }
                                                                                 }
-
-                                                                                changeScrollLabel(originPlace + " - " + destinationPlace + ": £" + cheapestPrice);
+                                                                                if (!(cheapestPrice == 999999)){
+                                                                                    changeScrollLabel(originPlace + " - " + destinationPlace + ": £" + cheapestPrice);
+                                                                                }
+                                                                                else {
+                                                                                    changeScrollLabel("No flights available");
+                                                                                }
 
                                                                             } catch (JSONException e) {
                                                                                 e.printStackTrace();

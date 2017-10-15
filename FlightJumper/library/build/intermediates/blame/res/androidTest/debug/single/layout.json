@@ -1,62 +1,122 @@
 [
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_template_big_media.xml"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media_custom.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_template_media_custom.xml"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_media.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_template_media.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_action.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/layout/notification_action.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_custom.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_template_big_media_custom.xml"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_icon_group.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/layout/notification_template_icon_group.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_media_action.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_media_action.xml"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\layout\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_lines_media.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_template_lines_media.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_action_tombstone.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/layout/notification_action_tombstone.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_media_cancel_action.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_template_lines_media.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_part_time.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow_custom.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_template_big_media_narrow_custom.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_custom_big.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/layout/notification_template_custom_big.xml"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/androidTest/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     }
 ]

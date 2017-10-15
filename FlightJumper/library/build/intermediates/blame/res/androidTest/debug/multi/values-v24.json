@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml",
+        "outputFile": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 177
                 },
                 "from": {
-                    "file": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 243
                 },
                 "from": {
-                    "file": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,88 @@
                     "endOffset": 310
                 },
                 "from": {
-                    "file": "/Users/brandonwilliams/.android/build-cache/8c0eac541f519c01ded917e69d30af26f9d0b54d/output/res/values-v24/values-v24.xml",
+                    "file": "C:\\Users\\brandonwilliams\\.android\\build-cache\\8c0eac541f519c01ded917e69d30af26f9d0b54d\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 66,
+                        "endOffset": 310
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endColumn": 60,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 121,
+                        "endColumn": 60,
+                        "endOffset": 177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endColumn": 65,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\values-v24\\values-v24.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endColumn": 65,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 66,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\George\\.android\\build-cache\\879173b0b1714c4e36dadefce4db513e0c7ac479\\output\\res\\values-v24\\values-v24.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

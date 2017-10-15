@@ -1,22 +1,42 @@
 [
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_low_normal.9.png",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/Users/brandonwilliams/flightjumper/FlightJumper/library/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
-        "source": "/Users/brandonwilliams/.android/build-cache/85cfd536980828981a24ed7d76cea532e99930bc/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\George\\Desktop\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\George\\.android\\build-cache\\61a487c7fd7c76ec84d33b0a1f0a0c48dc993c98\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\brandonwilliams\\flightjumper\\FlightJumper\\library\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\brandonwilliams\\.android\\build-cache\\85cfd536980828981a24ed7d76cea532e99930bc\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     }
 ]
