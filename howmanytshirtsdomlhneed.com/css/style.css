@@ -554,10 +554,9 @@ footer {
   color: #0db4be;
 }
 .last-div {
-	margin-top:40px;
+	margin-top:4px;
     background: #0db4be;
     padding: 20px 0;
-    position: fixed;
     bottom: 0;
     width: 100%;
 }
